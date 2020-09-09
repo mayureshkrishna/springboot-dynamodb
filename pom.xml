@@ -27,11 +27,11 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<spring-boot-version>1.5.1.RELEASE</spring-boot-version>
+		<spring-boot-version>2.3.0.RELEASE</spring-boot-version>
 		<docker.image.prefix>docker-registry-default.bss-np.corp.cox.com/bmw-dev</docker.image.prefix>
 		<java.version>1.8</java.version>
 		<!-- Camel -->
-		<version.camel>2.18.3</version.camel>
+		<version.camel>3.3.0</version.camel>
 		<!-- Dependencies - Logging -->
 		<version.slf4j>1.7.7</version.slf4j>
 		<version.log4j>1.2.6</version.log4j>
@@ -152,7 +152,7 @@
 		<dependency>
 			<groupId>com.github.derjust</groupId>
 			<artifactId>spring-data-dynamodb</artifactId>
-			<version>4.3.1</version>
+			<version>5.0.3</version>
 		</dependency>
 		<!-- <dependency> <groupId>com.newrelic.agent.java</groupId> <artifactId>newrelic-agent</artifactId> 
 			<version>3.38.0</version> </dependency> -->
