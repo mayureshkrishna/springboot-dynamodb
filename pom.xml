@@ -31,7 +31,7 @@
 		<docker.image.prefix>docker-registry-default.bss-np.corp.cox.com/bmw-dev</docker.image.prefix>
 		<java.version>1.8</java.version>
 		<!-- Camel -->
-		<version.camel>2.18.3</version.camel>
+		<version.camel>2.25.1</version.camel>
 		<!-- Dependencies - Logging -->
 		<version.slf4j>1.7.7</version.slf4j>
 		<version.log4j>1.2.6</version.log4j>
